@@ -1,6 +1,6 @@
 echo '---------------------------------------'
 echo '----------------COSINE-----------------'
-python p1try10.py cos
+python main.py cos
 echo '---------------------------------------'
 echo '---------------EUCLIDEAN---------------'
-python p1try10.py ed
+python main.py ed
